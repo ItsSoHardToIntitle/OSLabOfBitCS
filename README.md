@@ -18,7 +18,7 @@
 
 2. 实验分析:
 
-![image](https://github.com/ItsSoHardToIntitle/OSLabOfBitCS/blob/master/image/过程图.png)
+![image](https://github.com/ItsSoHardToIntitle/OSLabOfBitCS/blob/master/image/过程图.jpg)
 
 3. 结果展示：（前方多图，流量警告⚠）
 
