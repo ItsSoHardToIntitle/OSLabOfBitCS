@@ -52,6 +52,7 @@
 3.5 数据库
 
 ![image](https://github.com/ItsSoHardToIntitle/OSLabOfBitCS/blob/master/image/15.png)
+
 ![image](https://github.com/ItsSoHardToIntitle/OSLabOfBitCS/blob/master/image/16.png)
 ![image](https://github.com/ItsSoHardToIntitle/OSLabOfBitCS/blob/master/image/17.png)
 ![image](https://github.com/ItsSoHardToIntitle/OSLabOfBitCS/blob/master/image/18.png)
